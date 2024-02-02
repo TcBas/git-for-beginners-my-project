@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Thomas Huber
+Author: Thomas Claudious Huber
 Twitter: @Eljsjs
